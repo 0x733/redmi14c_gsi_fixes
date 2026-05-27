@@ -1,0 +1,10 @@
+persist.sys.phh.backlight.scale=1
+persist.sys.phh.disable_audio_effects=1
+persist.sys.phh.disable_soundvolume_effect=1
+persist.sys.phh.allow_binder_thread_on_incoming_calls=1
+persist.sys.phh.virtual_sensors_are_real=1
+persist.sys.phh.disable_gl_backpressure=1
+persist.sys.phh.mtk.ged_kpi=1
+persist.sys.phh.include_all_cameras=true
+persist.sys.phh.xiaomi.dt2w=1
+persist.sys.phh.prefer_hw_codecs=true

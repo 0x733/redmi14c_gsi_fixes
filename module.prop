@@ -1,0 +1,6 @@
+id=gsi_redmi14c_fixes
+name=Redmi 14C GSI Fixes & Optimizations
+version=v1.0
+versionCode=1
+author=0x733
+description=Fixes automatic brightness, audio volume limits, multi-camera, double tap to wake, and applies kernel/Dalvik optimizations for Redmi 14C on GSI.
