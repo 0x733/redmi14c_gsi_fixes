@@ -8,3 +8,6 @@ persist.sys.phh.mtk.ged_kpi=1
 persist.sys.phh.include_all_cameras=true
 persist.sys.phh.xiaomi.dt2w=1
 persist.sys.phh.prefer_hw_codecs=true
+persist.sys.phh.sf_disable_backpressure=1
+persist.sys.phh.disable_sf_hwc_backpressure=1
+persist.sys.phh.sf_latch_unsignaled=1

@@ -7,3 +7,5 @@ resetprop debug.hwui.renderer skiaogl
 resetprop ro.max.fling_velocity 20000
 resetprop ro.min.fling_velocity 8000
 resetprop dalvik.vm.heapstartsize 16m
+resetprop debug.sf.disable_backpressure 1
+resetprop debug.sf.latch_unsignaled 1
